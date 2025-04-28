@@ -1,0 +1,5 @@
+package: immich
+output: immich.gen.go
+generate:
+  client: true
+  models: true
